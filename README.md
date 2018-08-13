@@ -5,3 +5,4 @@ Atores/atrizes favoritos
 Angelina Jolie
 The Rock
 Rodrigo Santoro
+Will Smith
