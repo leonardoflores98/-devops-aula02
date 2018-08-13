@@ -3,5 +3,6 @@
 Atores/atrizes favoritos
 
 Angelina Jolie
-Paola Oliveira
+The Rock
 Rodrigo Santoro
+Will Smith
